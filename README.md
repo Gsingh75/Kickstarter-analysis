@@ -1,4 +1,4 @@
-# ##Kickstarting with Excel##
+# Kickstarting with Excel
 
 ## Overview of Project:
 We did an analysis of how a number of various campaigns-specifically those which belong to 'Theater' category performed based on two criteria- firstly, based on their launch dates and secondly, based on their funding amount goals, with the help of data from the 'Kickstarter' dataset. Our client, Louise asked us to do the above analysis for her, after the success of her play 'Fever'- which came really close to its fundraising goal, in a relatively short amount of time. 
