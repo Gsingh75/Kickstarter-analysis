@@ -19,11 +19,11 @@ Overall, I did not face much challenges completing this analysis because of all 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. The most successful theater campaigns were launched in the month of May, 111 campaigns to be precise.
 2. The most number of failed campaigns were launched in the month of May, 52 to be precise and was closely followed by June, July and October with 49, 50 and 50 campaigns respectively. 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?__
 The most successful campaigns had a goal set of less than $1000, closely followed by the goal set in the range $1000 to $4999. Whereas, the most failed campaigns (100% to be precise) had a goal set in the range $45000 to $49999. 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?__
 The first limitation in the dataset is that the dates that were originally given to us were in the UNIX timestamps. These had to be converted into the MM/DD/YY format. Secondly, some of the column headers are misleading for instance, 'staff_pick' and 'spotlight'.  
-- What are some other possible tables and/or graphs that we could create? 
+- What are some other possible tables and/or graphs that we could create?__ 
 Some additional charts that could be created are:
 a. The outcomes based on Countries- in order to see which countries had the most successful or failed campaigns.
 b. The time period of campaigns and their respective outcomes- how long did the most successful campaigns run for? 
